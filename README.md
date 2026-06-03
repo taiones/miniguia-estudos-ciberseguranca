@@ -6,7 +6,8 @@ Este repositório foi desenvolvido como o Desafio de Projeto do Bootcamp Bradesc
 ## 2. Curadoria de Fontes
 Para alimentar a base de conhecimento do NotebookLM, foram selecionadas e utilizadas as seguintes fontes:
 
-* [O Panorama da Segurança Digital em 2026: Inteligência Artificial Ofensiva, Resiliência Sistêmica e a Nova Era Regulatória]
+### O Panorama da Segurança Digital em 2026: Inteligência Artificial Ofensiva, Resiliência Sistêmica e a Nova Era Regulatória
+
 * [Cartilha de Segurança para Internet - CERT.br](https://cartilha.cert.br/)
 * [OWASP Top 10 - Referência de Vulnerabilidades](https://owasp.org/www-project-top-ten/)
 * [Riscos Cibernéticos em 2026: O que os Executivos Precisam Saber sobre IA, Fraude e Geopolítica](https://es.weforum.org/stories/2026/01/ciberriesgos-en-2026-lo-que-los-ejecutivos-deben-saber-sobre-ia-fraude-y-geopolitica/)
