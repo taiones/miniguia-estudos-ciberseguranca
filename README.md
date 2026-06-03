@@ -24,7 +24,7 @@ Durante a interação com o NotebookLM, o foco foi refinar as perguntas para ext
 * **Prompt Refinado (Resultado Nota 10):** *"Cruzando os relatórios do Fórum Econômico Mundial, KPMG e WeLiveSecurity contidos nas fontes, quais são as 3 principais estratégias recomendadas para combater o uso de IA Ofensiva por cibercriminosos?"*
     * *Ganho:* Resposta direta, categorizada e totalmente embasada nos documentos fornecidos.
 
-## 4. Miniguia de Estudo (Entrega Final)
+## 4. Miniguia de Estudo 
 
 ### Resumo Estruturado dos Assuntos
 O panorama da segurança digital em 2026 é caracterizado por uma **convergência de riscos sistêmicos**, onde a inteligência artificial (IA), a fragmentação geopolítica e o ciberfraude evoluem mais rápido que a capacidade de adaptação das organizações.
